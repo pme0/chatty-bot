@@ -31,3 +31,6 @@ ollama serve
 ```
 
 This will give you a URL `http://http://0.0.0.0:5555`, click it to open the application on the browser.
+
+
+<img src="app.png" alt="" width="600">
