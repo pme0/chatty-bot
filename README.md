@@ -6,17 +6,16 @@ AI conversational assistants running locally on your machine.
 
 1. Install Ollama: https://github.com/ollama/ollama
 
-2. Clone the repository:
-```bash
-git clone https://github.com/pme0/chatty-bot.git
-cd chatty-bot
-```
-
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install gradio ollama
 ```
 
+3. Clone the repository:
+```bash
+git clone https://github.com/pme0/chatty-bot.git
+cd chatty-bot
+```
 
 ## Usage
 
